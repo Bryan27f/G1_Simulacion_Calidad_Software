@@ -1,0 +1,6 @@
+robots.txt
+index.html
+index.php
+index.asp
+test.html
+visit.php
